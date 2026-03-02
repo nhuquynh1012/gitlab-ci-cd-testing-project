@@ -1,5 +1,4 @@
-
-**HealthyApp – Ứng dụng GitLab CI/CD, Kiểm thử Chức năng, API và Hiệu năng**
+<h1>HealthyApp – Ứng dụng GitLab CI/CD, Kiểm thử Chức năng, API và Hiệu năng</h1>
 
 # Giới thiệu đề tài
 **Đề tài:** Ứng dụng GitLab CI/CD và kiểm thử hiệu năng vào dự án Spring Boot
